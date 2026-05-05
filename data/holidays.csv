@@ -1,0 +1,351 @@
+date,locale,locale_name,description
+2012-03-02,Local,Manta,Fundacion de Manta
+2012-04-01,Regional,Cotopaxi,Provincializacion de Cotopaxi
+2012-04-12,Local,Cuenca,Fundacion de Cuenca
+2012-04-14,Local,Libertad,Cantonizacion de Libertad
+2012-04-21,Local,Riobamba,Cantonizacion de Riobamba
+2012-05-12,Local,Puyo,Cantonizacion del Puyo
+2012-06-23,Local,Guaranda,Cantonizacion de Guaranda
+2012-06-25,Regional,Imbabura,Provincializacion de Imbabura
+2012-06-25,Local,Latacunga,Cantonizacion de Latacunga
+2012-06-25,Local,Machala,Fundacion de Machala
+2012-07-03,Local,Santo Domingo,Fundacion de Santo Domingo
+2012-07-03,Local,El Carmen,Cantonizacion de El Carmen
+2012-07-23,Local,Cayambe,Cantonizacion de Cayambe
+2012-08-05,Local,Esmeraldas,Fundacion de Esmeraldas
+2012-08-10,National,Ecuador,Primer Grito de Independencia
+2012-08-15,Local,Riobamba,Fundacion de Riobamba
+2012-08-24,Local,Ambato,Fundacion de Ambato
+2012-09-28,Local,Ibarra,Fundacion de Ibarra
+2012-10-07,Local,Quevedo,Cantonizacion de Quevedo
+2012-10-09,National,Ecuador,Independencia de Guayaquil
+2012-10-12,National,Ecuador,Traslado Independencia de Guayaquil
+2012-11-02,National,Ecuador,Dia de Difuntos
+2012-11-03,National,Ecuador,Independencia de Cuenca
+2012-11-06,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo
+2012-11-07,Regional,Santa Elena,Provincializacion Santa Elena
+2012-11-10,Local,Guaranda,Independencia de Guaranda
+2012-11-11,Local,Latacunga,Independencia de Latacunga
+2012-11-12,Local,Ambato,Independencia de Ambato
+2012-12-05,Local,Quito,Fundacion de Quito-1
+2012-12-06,Local,Quito,Fundacion de Quito
+2012-12-08,Local,Loja,Fundacion de Loja
+2012-12-21,National,Ecuador,Navidad-4
+2012-12-22,Local,Salinas,Cantonizacion de Salinas
+2012-12-22,National,Ecuador,Navidad-3
+2012-12-23,National,Ecuador,Navidad-2
+2012-12-24,National,Ecuador,Puente Navidad
+2012-12-24,National,Ecuador,Navidad-1
+2012-12-25,National,Ecuador,Navidad
+2012-12-26,National,Ecuador,Navidad+1
+2012-12-31,National,Ecuador,Puente Primer dia del ano
+2012-12-31,National,Ecuador,Primer dia del ano-1
+2013-01-01,National,Ecuador,Primer dia del ano
+2013-01-05,National,Ecuador,Recupero puente Navidad
+2013-01-12,National,Ecuador,Recupero puente primer dia del ano
+2013-02-11,National,Ecuador,Carnaval
+2013-02-12,National,Ecuador,Carnaval
+2013-03-02,Local,Manta,Fundacion de Manta
+2013-04-01,Regional,Cotopaxi,Provincializacion de Cotopaxi
+2013-04-12,Local,Cuenca,Fundacion de Cuenca
+2013-04-14,Local,Libertad,Cantonizacion de Libertad
+2013-04-21,Local,Riobamba,Cantonizacion de Riobamba
+2013-04-29,National,Ecuador,Viernes Santo
+2013-05-01,National,Ecuador,Dia del Trabajo
+2013-05-11,National,Ecuador,Dia de la Madre-1
+2013-05-12,Local,Puyo,Cantonizacion del Puyo
+2013-05-12,National,Ecuador,Dia de la Madre
+2013-05-24,National,Ecuador,Batalla de Pichincha
+2013-06-23,Local,Guaranda,Cantonizacion de Guaranda
+2013-06-25,Regional,Imbabura,Provincializacion de Imbabura
+2013-06-25,Local,Machala,Fundacion de Machala
+2013-06-25,Local,Latacunga,Cantonizacion de Latacunga
+2013-07-03,Local,El Carmen,Cantonizacion de El Carmen
+2013-07-03,Local,Santo Domingo,Fundacion de Santo Domingo
+2013-07-23,Local,Cayambe,Cantonizacion de Cayambe
+2013-07-24,Local,Guayaquil,Fundacion de Guayaquil-1
+2013-07-25,Local,Guayaquil,Fundacion de Guayaquil
+2013-08-05,Local,Esmeraldas,Fundacion de Esmeraldas
+2013-08-10,National,Ecuador,Primer Grito de Independencia
+2013-08-15,Local,Riobamba,Fundacion de Riobamba
+2013-08-24,Local,Ambato,Fundacion de Ambato
+2013-09-28,Local,Ibarra,Fundacion de Ibarra
+2013-10-07,Local,Quevedo,Cantonizacion de Quevedo
+2013-10-09,National,Ecuador,Independencia de Guayaquil
+2013-10-11,National,Ecuador,Traslado Independencia de Guayaquil
+2013-11-02,National,Ecuador,Dia de Difuntos
+2013-11-03,National,Ecuador,Independencia de Cuenca
+2013-11-06,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo
+2013-11-07,Regional,Santa Elena,Provincializacion Santa Elena
+2013-11-10,Local,Guaranda,Independencia de Guaranda
+2013-11-11,Local,Latacunga,Independencia de Latacunga
+2013-11-12,Local,Ambato,Independencia de Ambato
+2013-12-05,Local,Quito,Fundacion de Quito-1
+2013-12-06,Local,Quito,Fundacion de Quito
+2013-12-08,Local,Loja,Fundacion de Loja
+2013-12-21,National,Ecuador,Navidad-4
+2013-12-22,National,Ecuador,Navidad-3
+2013-12-22,Local,Salinas,Cantonizacion de Salinas
+2013-12-23,National,Ecuador,Navidad-2
+2013-12-24,National,Ecuador,Navidad-1
+2013-12-25,National,Ecuador,Navidad
+2013-12-26,National,Ecuador,Navidad+1
+2013-12-31,National,Ecuador,Primer dia del ano-1
+2014-01-01,National,Ecuador,Primer dia del ano
+2014-03-02,Local,Manta,Fundacion de Manta
+2014-03-03,National,Ecuador,Carnaval
+2014-03-04,National,Ecuador,Carnaval
+2014-04-01,Regional,Cotopaxi,Provincializacion de Cotopaxi
+2014-04-12,Local,Cuenca,Fundacion de Cuenca
+2014-04-14,Local,Libertad,Cantonizacion de Libertad
+2014-04-18,National,Ecuador,Viernes Santo
+2014-04-21,Local,Riobamba,Cantonizacion de Riobamba
+2014-05-01,National,Ecuador,Dia del Trabajo
+2014-05-10,National,Ecuador,Dia de la Madre-1
+2014-05-11,National,Ecuador,Dia de la Madre
+2014-05-12,Local,Puyo,Cantonizacion del Puyo
+2014-05-24,National,Ecuador,Batalla de Pichincha
+2014-06-12,National,Ecuador,Inauguracion Mundial de futbol Brasil
+2014-06-15,National,Ecuador,Mundial de futbol Brasil: Ecuador-Suiza
+2014-06-20,National,Ecuador,Mundial de futbol Brasil: Ecuador-Honduras
+2014-06-23,Local,Guaranda,Cantonizacion de Guaranda
+2014-06-25,Local,Latacunga,Cantonizacion de Latacunga
+2014-06-25,Local,Machala,Fundacion de Machala
+2014-06-25,Regional,Imbabura,Provincializacion de Imbabura
+2014-06-25,National,Ecuador,Mundial de futbol Brasil: Ecuador-Francia
+2014-06-28,National,Ecuador,Mundial de futbol Brasil: Octavos de Final
+2014-06-29,National,Ecuador,Mundial de futbol Brasil: Octavos de Final
+2014-06-30,National,Ecuador,Mundial de futbol Brasil: Octavos de Final
+2014-07-01,National,Ecuador,Mundial de futbol Brasil: Octavos de Final
+2014-07-03,Local,El Carmen,Cantonizacion de El Carmen
+2014-07-03,Local,Santo Domingo,Fundacion de Santo Domingo
+2014-07-04,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final
+2014-07-05,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final
+2014-07-08,National,Ecuador,Mundial de futbol Brasil: Semifinales
+2014-07-09,National,Ecuador,Mundial de futbol Brasil: Semifinales
+2014-07-12,National,Ecuador,Mundial de futbol Brasil: Tercer y cuarto lugar
+2014-07-13,National,Ecuador,Mundial de futbol Brasil: Final
+2014-07-23,Local,Cayambe,Cantonizacion de Cayambe
+2014-07-24,Local,Guayaquil,Fundacion de Guayaquil-1
+2014-07-25,Local,Guayaquil,Fundacion de Guayaquil
+2014-08-05,Local,Esmeraldas,Fundacion de Esmeraldas
+2014-08-10,National,Ecuador,Primer Grito de Independencia
+2014-08-15,Local,Riobamba,Fundacion de Riobamba
+2014-08-24,Local,Ambato,Fundacion de Ambato
+2014-09-28,Local,Ibarra,Fundacion de Ibarra
+2014-10-07,Local,Quevedo,Cantonizacion de Quevedo
+2014-10-09,National,Ecuador,Independencia de Guayaquil
+2014-10-10,National,Ecuador,Traslado Independencia de Guayaquil
+2014-11-02,National,Ecuador,Dia de Difuntos
+2014-11-03,National,Ecuador,Independencia de Cuenca
+2014-11-06,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo
+2014-11-07,Regional,Santa Elena,Provincializacion Santa Elena
+2014-11-10,Local,Guaranda,Independencia de Guaranda
+2014-11-11,Local,Latacunga,Independencia de Latacunga
+2014-11-12,Local,Ambato,Independencia de Ambato
+2014-11-28,National,Ecuador,Black Friday
+2014-12-01,National,Ecuador,Cyber Monday
+2014-12-05,Local,Quito,Fundacion de Quito-1
+2014-12-06,Local,Quito,Fundacion de Quito
+2014-12-08,Local,Loja,Fundacion de Loja
+2014-12-20,National,Ecuador,Recupero Puente Navidad
+2014-12-21,National,Ecuador,Navidad-4
+2014-12-22,Local,Salinas,Cantonizacion de Salinas
+2014-12-22,National,Ecuador,Navidad-3
+2014-12-23,National,Ecuador,Navidad-2
+2014-12-24,National,Ecuador,Navidad-1
+2014-12-25,National,Ecuador,Navidad
+2014-12-26,National,Ecuador,Puente Navidad
+2014-12-26,National,Ecuador,Navidad+1
+2014-12-31,National,Ecuador,Primer dia del ano-1
+2015-01-01,National,Ecuador,Primer dia del ano
+2015-01-02,National,Ecuador,Puente Primer dia del ano
+2015-01-10,National,Ecuador,Recupero Puente Primer dia del ano
+2015-02-16,National,Ecuador,Carnaval
+2015-02-17,National,Ecuador,Carnaval
+2015-03-02,Local,Manta,Fundacion de Manta
+2015-04-01,Regional,Cotopaxi,Provincializacion de Cotopaxi
+2015-04-03,National,Ecuador,Viernes Santo
+2015-04-12,Local,Cuenca,Fundacion de Cuenca
+2015-04-14,Local,Libertad,Cantonizacion de Libertad
+2015-04-21,Local,Riobamba,Cantonizacion de Riobamba
+2015-05-01,National,Ecuador,Dia del Trabajo
+2015-05-09,National,Ecuador,Dia de la Madre-1
+2015-05-10,National,Ecuador,Dia de la Madre
+2015-05-12,Local,Puyo,Cantonizacion del Puyo
+2015-05-24,National,Ecuador,Batalla de Pichincha
+2015-06-23,Local,Guaranda,Cantonizacion de Guaranda
+2015-06-25,Local,Machala,Fundacion de Machala
+2015-06-25,Regional,Imbabura,Provincializacion de Imbabura
+2015-06-25,Local,Latacunga,Cantonizacion de Latacunga
+2015-07-03,Local,El Carmen,Cantonizacion de El Carmen
+2015-07-03,Local,Santo Domingo,Fundacion de Santo Domingo
+2015-07-23,Local,Cayambe,Cantonizacion de Cayambe
+2015-07-24,Local,Guayaquil,Fundacion de Guayaquil-1
+2015-07-25,Local,Guayaquil,Fundacion de Guayaquil
+2015-08-05,Local,Esmeraldas,Fundacion de Esmeraldas
+2015-08-10,National,Ecuador,Primer Grito de Independencia
+2015-08-15,Local,Riobamba,Fundacion de Riobamba
+2015-08-24,Local,Ambato,Fundacion de Ambato
+2015-09-28,Local,Ibarra,Fundacion de Ibarra
+2015-10-07,Local,Quevedo,Cantonizacion de Quevedo
+2015-10-09,National,Ecuador,Independencia de Guayaquil
+2015-11-02,National,Ecuador,Dia de Difuntos
+2015-11-03,National,Ecuador,Independencia de Cuenca
+2015-11-06,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo
+2015-11-07,Regional,Santa Elena,Provincializacion Santa Elena
+2015-11-10,Local,Guaranda,Independencia de Guaranda
+2015-11-11,Local,Latacunga,Independencia de Latacunga
+2015-11-12,Local,Ambato,Independencia de Ambato
+2015-11-27,National,Ecuador,Black Friday
+2015-11-30,National,Ecuador,Cyber Monday
+2015-12-05,Local,Quito,Fundacion de Quito-1
+2015-12-06,Local,Quito,Fundacion de Quito
+2015-12-08,Local,Loja,Fundacion de Loja
+2015-12-21,National,Ecuador,Navidad-4
+2015-12-22,National,Ecuador,Navidad-3
+2015-12-22,Local,Salinas,Cantonizacion de Salinas
+2015-12-23,National,Ecuador,Navidad-2
+2015-12-24,National,Ecuador,Navidad-1
+2015-12-25,National,Ecuador,Navidad
+2015-12-26,National,Ecuador,Navidad+1
+2015-12-31,National,Ecuador,Primer dia del ano-1
+2016-01-01,National,Ecuador,Primer dia del ano
+2016-02-08,National,Ecuador,Carnaval
+2016-02-09,National,Ecuador,Carnaval
+2016-03-02,Local,Manta,Fundacion de Manta
+2016-03-25,National,Ecuador,Viernes Santo
+2016-04-01,Regional,Cotopaxi,Provincializacion de Cotopaxi
+2016-04-12,Local,Cuenca,Fundacion de Cuenca
+2016-04-14,Local,Libertad,Cantonizacion de Libertad
+2016-04-16,National,Ecuador,Terremoto Manabi
+2016-04-17,National,Ecuador,Terremoto Manabi+1
+2016-04-18,National,Ecuador,Terremoto Manabi+2
+2016-04-19,National,Ecuador,Terremoto Manabi+3
+2016-04-20,National,Ecuador,Terremoto Manabi+4
+2016-04-21,Local,Riobamba,Cantonizacion de Riobamba
+2016-04-21,National,Ecuador,Terremoto Manabi+5
+2016-04-22,National,Ecuador,Terremoto Manabi+6
+2016-04-23,National,Ecuador,Terremoto Manabi+7
+2016-04-24,National,Ecuador,Terremoto Manabi+8
+2016-04-25,National,Ecuador,Terremoto Manabi+9
+2016-04-26,National,Ecuador,Terremoto Manabi+10
+2016-04-27,National,Ecuador,Terremoto Manabi+11
+2016-04-28,National,Ecuador,Terremoto Manabi+12
+2016-04-29,National,Ecuador,Terremoto Manabi+13
+2016-04-30,National,Ecuador,Terremoto Manabi+14
+2016-05-01,National,Ecuador,Dia del Trabajo
+2016-05-01,National,Ecuador,Terremoto Manabi+15
+2016-05-02,National,Ecuador,Terremoto Manabi+16
+2016-05-03,National,Ecuador,Terremoto Manabi+17
+2016-05-04,National,Ecuador,Terremoto Manabi+18
+2016-05-05,National,Ecuador,Terremoto Manabi+19
+2016-05-06,National,Ecuador,Terremoto Manabi+20
+2016-05-07,National,Ecuador,Dia de la Madre-1
+2016-05-07,National,Ecuador,Terremoto Manabi+21
+2016-05-08,National,Ecuador,Terremoto Manabi+22
+2016-05-08,National,Ecuador,Dia de la Madre
+2016-05-09,National,Ecuador,Terremoto Manabi+23
+2016-05-10,National,Ecuador,Terremoto Manabi+24
+2016-05-11,National,Ecuador,Terremoto Manabi+25
+2016-05-12,Local,Puyo,Cantonizacion del Puyo
+2016-05-12,National,Ecuador,Terremoto Manabi+26
+2016-05-13,National,Ecuador,Terremoto Manabi+27
+2016-05-14,National,Ecuador,Terremoto Manabi+28
+2016-05-15,National,Ecuador,Terremoto Manabi+29
+2016-05-16,National,Ecuador,Terremoto Manabi+30
+2016-05-24,National,Ecuador,Batalla de Pichincha
+2016-05-27,National,Ecuador,Traslado Batalla de Pichincha
+2016-06-23,Local,Guaranda,Cantonizacion de Guaranda
+2016-06-25,Local,Machala,Fundacion de Machala
+2016-06-25,Regional,Imbabura,Provincializacion de Imbabura
+2016-06-25,Local,Latacunga,Cantonizacion de Latacunga
+2016-07-03,Local,El Carmen,Cantonizacion de El Carmen
+2016-07-03,Local,Santo Domingo,Fundacion de Santo Domingo
+2016-07-23,Local,Cayambe,Cantonizacion de Cayambe
+2016-07-24,Local,Guayaquil,Fundacion de Guayaquil-1
+2016-07-24,Local,Guayaquil,Traslado Fundacion de Guayaquil
+2016-07-25,Local,Guayaquil,Fundacion de Guayaquil
+2016-08-05,Local,Esmeraldas,Fundacion de Esmeraldas
+2016-08-10,National,Ecuador,Primer Grito de Independencia
+2016-08-12,National,Ecuador,Traslado Primer Grito de Independencia
+2016-08-15,Local,Riobamba,Fundacion de Riobamba
+2016-08-24,Local,Ambato,Fundacion de Ambato
+2016-09-28,Local,Ibarra,Fundacion de Ibarra
+2016-10-07,Local,Quevedo,Cantonizacion de Quevedo
+2016-10-09,National,Ecuador,Independencia de Guayaquil
+2016-11-02,National,Ecuador,Dia de Difuntos
+2016-11-03,National,Ecuador,Independencia de Cuenca
+2016-11-04,National,Ecuador,Puente Dia de Difuntos
+2016-11-06,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo
+2016-11-07,Regional,Santa Elena,Provincializacion Santa Elena
+2016-11-10,Local,Guaranda,Independencia de Guaranda
+2016-11-11,Local,Latacunga,Independencia de Latacunga
+2016-11-12,Local,Ambato,Independencia de Ambato
+2016-11-12,National,Ecuador,Recupero Puente Dia de Difuntos
+2016-11-25,National,Ecuador,Black Friday
+2016-11-28,National,Ecuador,Cyber Monday
+2016-12-05,Local,Quito,Fundacion de Quito-1
+2016-12-06,Local,Quito,Fundacion de Quito
+2016-12-08,Local,Loja,Fundacion de Loja
+2016-12-21,National,Ecuador,Navidad-4
+2016-12-22,National,Ecuador,Navidad-3
+2016-12-22,Local,Salinas,Cantonizacion de Salinas
+2016-12-23,National,Ecuador,Navidad-2
+2016-12-24,National,Ecuador,Navidad-1
+2016-12-25,National,Ecuador,Navidad
+2016-12-26,National,Ecuador,Navidad+1
+2016-12-31,National,Ecuador,Primer dia del ano-1
+2017-01-01,National,Ecuador,Primer dia del ano
+2017-01-02,National,Ecuador,Traslado Primer dia del ano
+2017-02-27,National,Ecuador,Carnaval
+2017-02-28,National,Ecuador,Carnaval
+2017-03-02,Local,Manta,Fundacion de Manta
+2017-04-01,Regional,Cotopaxi,Provincializacion de Cotopaxi
+2017-04-12,Local,Cuenca,Fundacion de Cuenca
+2017-04-13,Local,Cuenca,Fundacion de Cuenca
+2017-04-14,Local,Libertad,Cantonizacion de Libertad
+2017-04-14,National,Ecuador,Viernes Santo
+2017-04-21,Local,Riobamba,Cantonizacion de Riobamba
+2017-05-01,National,Ecuador,Dia del Trabajo
+2017-05-12,Local,Puyo,Cantonizacion del Puyo
+2017-05-13,National,Ecuador,Dia de la Madre-1
+2017-05-14,National,Ecuador,Dia de la Madre
+2017-05-24,National,Ecuador,Batalla de Pichincha
+2017-05-26,National,Ecuador,Traslado Batalla de Pichincha
+2017-06-23,Local,Guaranda,Cantonizacion de Guaranda
+2017-06-25,Regional,Imbabura,Provincializacion de Imbabura
+2017-06-25,Local,Latacunga,Cantonizacion de Latacunga
+2017-06-25,Local,Machala,Fundacion de Machala
+2017-07-03,Local,El Carmen,Cantonizacion de El Carmen
+2017-07-03,Local,Santo Domingo,Fundacion de Santo Domingo
+2017-07-23,Local,Cayambe,Cantonizacion de Cayambe
+2017-07-24,Local,Guayaquil,Fundacion de Guayaquil-1
+2017-07-25,Local,Guayaquil,Fundacion de Guayaquil
+2017-08-05,Local,Esmeraldas,Fundacion de Esmeraldas
+2017-08-10,National,Ecuador,Primer Grito de Independencia
+2017-08-11,National,Ecuador,Traslado Primer Grito de Independencia
+2017-08-15,Local,Riobamba,Fundacion de Riobamba
+2017-08-24,Local,Ambato,Fundacion de Ambato
+2017-09-28,Local,Ibarra,Fundacion de Ibarra
+2017-09-29,Local,Ibarra,Fundacion de Ibarra
+2017-10-07,Local,Quevedo,Cantonizacion de Quevedo
+2017-10-09,National,Ecuador,Independencia de Guayaquil
+2017-11-02,National,Ecuador,Dia de Difuntos
+2017-11-03,National,Ecuador,Independencia de Cuenca
+2017-11-06,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo
+2017-11-07,Regional,Santa Elena,Provincializacion Santa Elena
+2017-11-10,Local,Guaranda,Independencia de Guaranda
+2017-11-11,Local,Latacunga,Independencia de Latacunga
+2017-11-12,Local,Ambato,Independencia de Ambato
+2017-12-05,Local,Quito,Fundacion de Quito-1
+2017-12-06,Local,Quito,Fundacion de Quito
+2017-12-08,Local,Loja,Fundacion de Loja
+2017-12-08,Local,Quito,Traslado Fundacion de Quito
+2017-12-21,National,Ecuador,Navidad-4
+2017-12-22,Local,Salinas,Cantonizacion de Salinas
+2017-12-22,National,Ecuador,Navidad-3
+2017-12-23,National,Ecuador,Navidad-2
+2017-12-24,National,Ecuador,Navidad-1
+2017-12-25,National,Ecuador,Navidad
+2017-12-26,National,Ecuador,Navidad+1

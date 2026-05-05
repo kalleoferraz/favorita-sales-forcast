@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+prophet
+xgboost
+torch
+hyperopt
+mlflow
+darts
+tqdm
+gdown
