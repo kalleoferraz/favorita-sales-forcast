@@ -1,0 +1,34 @@
+{
+  "champion_model": "Random Forest (tuned)",
+  "metrics": {
+    "Model": "Random Forest (tuned)",
+    "MAE": 101.6,
+    "RMSE": 147.3,
+    "MAPE (%)": 22.4,
+    "R\u00b2": 0.401
+  },
+  "train_end": "2013-12-31",
+  "test_start": "2014-01-01",
+  "test_end": "2014-03-31",
+  "feature_columns": [
+    "lag_1",
+    "lag_7",
+    "lag_14",
+    "lag_30",
+    "roll_mean_7",
+    "roll_mean_14",
+    "roll_mean_28",
+    "roll_std_7",
+    "roll_std_14",
+    "roll_std_28",
+    "day_of_week",
+    "month",
+    "week",
+    "is_weekend",
+    "dcoilwtico",
+    "oil_lag_1",
+    "oil_lag_7",
+    "is_national_holiday",
+    "store_open"
+  ]
+}

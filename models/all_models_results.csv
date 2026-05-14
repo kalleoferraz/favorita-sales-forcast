@@ -1,0 +1,9 @@
+Model,MAE,RMSE,MAPE (%),R²
+Random Forest (tuned),101.6,147.3,22.4,0.401
+XGBoost (tuned),101.8,148.7,22.4,0.39
+Random Forest (baseline),104.0,149.8,22.9,0.38
+Holt-Winters (seasonal=add),98.4,150.4,20.7,0.376
+"SARIMA(1,0,1)(1,0,1)[7]",101.1,151.7,21.8,0.365
+Prophet (baseline),99.3,152.1,20.6,0.362
+XGBoost (baseline),120.6,164.9,26.9,0.25
+Seasonal Naïve (baseline),180.7,233.1,42.3,-0.5
